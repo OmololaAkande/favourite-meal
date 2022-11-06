@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  /* padding: 0; */
+}
+body{
+  width: 1000px;
+}
+
+h1{
+  margin-left: 10px;
+}
+
+.about,.list,.steps,.images{
+  margin:10px;
+}
+table{
+  margin-left:10px;
+}
+
+p{
+  margin-left:10px;
+}
+.foods{
+  margin:10px;
+}
+
+
+
+
